@@ -1,0 +1,23 @@
+
+<form id="749043254">
+<property name="subject" value=""/>
+<property name="name" value="sipreBPM.sipreProj.AltaTramite-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="idTramite" type="InputTextInteger" id="949797713">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;idTramite (idTramite)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="idTramite"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="1" name="estado" type="InputText" id="600409334">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;estado (estado)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="estado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="estado" value="java.lang.String" id="estado"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="idTramite" value="java.lang.Integer" id="idTramite"/>
+</form>

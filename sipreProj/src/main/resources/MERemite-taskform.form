@@ -1,0 +1,15 @@
+
+<form id="729158405">
+<property name="subject" value=""/>
+<property name="name" value="remiteTramite-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="estado" type="InputText" id="1982585851">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;estadoIn (estado)quot;"/>
+<property name="inputBinding" value="estadoIn"/>
+<property name="outputBinding" value="estadoOut"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="estadoIn" name="#0000A0" type="basicType" outId="estadoOut" value="java.lang.String" id="estado"/>
+</form>

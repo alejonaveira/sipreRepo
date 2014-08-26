@@ -1,0 +1,23 @@
+<org.uberfire.java.nio.base.Properties serialization="custom">
+  <unserializable-parents/>
+  <map>
+    <default>
+      <loadFactor>0.75</loadFactor>
+      <threshold>12</threshold>
+    </default>
+    <int>16</int>
+    <int>6</int>
+    <string>fileKey</string>
+    <string>AnyObjectId[b39c4e59e3f5769f4c3b466d45ae4411e4edb918]</string>
+    <string>isDirectory</string>
+    <boolean>false</boolean>
+    <string>isOther</string>
+    <boolean>false</boolean>
+    <string>isSymbolicLink</string>
+    <boolean>false</boolean>
+    <string>isRegularFile</string>
+    <boolean>true</boolean>
+    <string>size</string>
+    <long>212</long>
+  </map>
+</org.uberfire.java.nio.base.Properties>
